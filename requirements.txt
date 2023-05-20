@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scikit-image
+scipy 
+pickle
+argparse
+opencv-python
